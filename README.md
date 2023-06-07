@@ -1,5 +1,9 @@
 # Rebase Workshop
 
+first edit on branch 1
+second edit on branch 1
+third edit on branch 1
+
 CONTENTS OF THIS FILE
 ---------------------
 
